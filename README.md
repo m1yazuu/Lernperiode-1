@@ -1,3 +1,4 @@
 # Lernperiode-1
-# Idee
-#  einen Taschenrechner programmieren 
+21.08.2026
+## Idee
+einen Taschenrechner programmieren 
