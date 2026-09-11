@@ -21,3 +21,11 @@ einen Taschenrechner programmieren mindestens + - : und mal
 
 -[ ] falls nötig für den 319 test üben 
 -[ ] mit einem Passwortmanager beginnen 
+
+**11.09.26** 
+ich habe heute den Taschenrechner fertiggestellt und den Passwortgenerator begonnen
+
+## nächstes mal 
+
+-[ ] den Passwortgenerator fertigstellen 
+-[ ] den taschenrechner optisch optimieren
