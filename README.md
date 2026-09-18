@@ -25,7 +25,12 @@ einen Taschenrechner programmieren mindestens + - : und mal
 **11.09.26** 
 ich habe heute den Taschenrechner fertiggestellt und den Passwortgenerator begonnen
 
+**17.09.26** 
+
+ich habe den Passwortgenerator so weitergeführt das man nun ein Passwort generieren kann allerdings erst mit Buchstaben.
+
+
 ## nächstes mal 
 
--[ ] den Passwortgenerator fertigstellen 
--[ ] den taschenrechner optisch optimieren
+-[ ] Den Passwortgenerator weiterführen das er auch Ziffern und Zeichen verwendet allerdings so das man z.b. sagen kann 2 Zeichen 5 Ziffern und 3 Buchstaben.
+-[ ] Den Taschenrechner so programmieren das er Brüche berechnen kann.
