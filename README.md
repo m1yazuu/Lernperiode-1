@@ -49,3 +49,9 @@ ich habe den Passwortgenerator so weitergeführt das man nun ein Passwort generi
 
 -[ ] Den Passwortgenerator weiterführen das er auch Ziffern und Zeichen verwendet allerdings so das man z.b. sagen kann 2 Zeichen 5 Ziffern und 3 Buchstaben.
 -[ ] Den Taschenrechner so programmieren das er Wurzeln berechnen kann.
+
+
+
+## Reflektion 
+
+Am Anfang wusste ich noch nicht genau wo ich anfangen sollte aber dies ist nun gut, anschliessend habe Ich fast immer an meinen Projekten gearbeitet falls ich mal nicht weitergekommen bin habe ich entweder eine pause gemacht und bin kurz aufgestanden und rumgelaufen oder habe 1 Aufgabe in den Modulen gemacht. Ich glaube eigentlich das ich gut gearbeitet habe allerdings habe ich am Anfang immer ein bisschen gebraucht bis ich reingekommen bin für dieses Problem habe ich noch keine Lösung gefunden. Ich glaube aber das ich diese Antwort in den Ferien finden werde.
