@@ -1,4 +1,12 @@
 # Lernperiode-1
+
+
+## Beschreibung Taschenrechner 
+
+In diesem Taschenrechner wird man am Anfang nach den zwei zahlen mit denen man rechnen will gefragt wenn man diese beiden eingegeben hat kann man auswählen zwischen Addition/Subtraktion/Multiplikation und Division man kann aber auch die 5 Auswahl nehmen den wird die Wurzel aus der ersten eingegebenen Zahl gezogen
+
+<img width="154" height="131" alt="image" src="https://github.com/user-attachments/assets/78812fab-f964-4398-a635-5175d3e5aecb" />
+
 **21.08.2026**
 ## Idee
 einen Taschenrechner programmieren mindestens + - : und mal
