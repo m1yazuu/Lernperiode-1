@@ -1,0 +1,54 @@
+Console.WriteLine("Passwort Generator");
+Console.WriteLine("-------------------");
+
+Console.Write("Wie viele Buchstaben soll das Passwort haben? ");
+int buchstabenAnzahl = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Wie viele Ziffern soll das Passwort haben? ");
+int ziffernAnzahl = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Wie viele Zeichen soll das Passwort haben? ");
+int zeichenAnzahl = Convert.ToInt32(Console.ReadLine());
+
+string buchstaben = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+string ziffern = "0123456789";
+string zeichen = "!@#$%&*+-=?";
+
+string passwort = "";
+
+Random zufall = new Random();
+
+for (int i = 0; i < buchstabenAnzahl; i++)
+{
+    int nummer = zufall.Next(buchstaben.Length);
+    passwort += buchstaben[nummer];
+}
+
+for (int i = 0; i < ziffernAnzahl; i++)
+{
+    int nummer = zufall.Next(ziffern.Length);
+    passwort += ziffern[nummer];
+}
+
+for (int i = 0; i < zeichenAnzahl; i++)
+{
+    int nummer = zufall.Next(zeichen.Length);
+    passwort += zeichen[nummer];
+}
+
+char[] passwortArray = passwort.ToCharArray();
+
+for (int i = 0; i < passwortArray.Length; i++)
+{
+    int zufallsPosition = zufall.Next(passwortArray.Length);
+
+    char temp = passwortArray[i];
+    passwortArray[i] = passwortArray[zufallsPosition];
+    passwortArray[zufallsPosition] = temp;
+}
+
+passwort = new string(passwortArray);
+
+Console.WriteLine();
+Console.WriteLine("Dein Passwort ist: " + passwort);
+Console.WriteLine("Passwortlänge: " + passwort.Length);
