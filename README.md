@@ -33,4 +33,4 @@ ich habe den Passwortgenerator so weitergeführt das man nun ein Passwort generi
 ## nächstes mal 
 
 -[ ] Den Passwortgenerator weiterführen das er auch Ziffern und Zeichen verwendet allerdings so das man z.b. sagen kann 2 Zeichen 5 Ziffern und 3 Buchstaben.
--[ ] Den Taschenrechner so programmieren das er Brüche berechnen kann.
+-[ ] Den Taschenrechner so programmieren das er Wurzeln berechnen kann.
