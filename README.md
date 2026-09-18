@@ -13,6 +13,7 @@ Der Passwortgenerator ist sehr simpel aufgebaut man kann sagen wie viele Ziffern
 
 <img width="334" height="119" alt="image" src="https://github.com/user-attachments/assets/a35f18aa-26f0-42b4-8ac3-920716532c78" />
 
+
 **21.08.2026** 
 ## Idee
 einen Taschenrechner programmieren mindestens + - : und mal
